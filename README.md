@@ -1,2 +1,2 @@
 # 2020_DataImageProcess
- matlab couser assignments
+ matlab course assignments
